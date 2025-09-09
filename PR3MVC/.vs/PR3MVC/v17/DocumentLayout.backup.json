@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\pedidomodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\pedidomodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\pedidomodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\pedidomodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\models\\pedidocreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:models\\pedidocreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\clientemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\clientemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\pedidomodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\pedidomodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\models\\detalllepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:models\\detalllepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\productomodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\productomodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\data\\artesaniasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:data\\artesaniasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\productomodels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\productomodels\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\productomodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\productomodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\productomodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\productomodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\productomodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\productomodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Migrations\\20250909030446_DropSkuFromProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250909030446_DropSkuFromProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\detallepedidomodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\detallepedidomodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\views\\productomodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:views\\productomodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\pr3mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:pr3mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\models\\homemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:models\\homemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|c:\\users\\nitro\\documents\\web iii\\pr3mvc\\practica3mvc\\pr3mvc\\migrations\\20250908200138_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFAC320-3E5B-4A8F-8824-15F15E83BB48}|PR3MVC.csproj|solutionrelative:migrations\\20250908200138_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\wwwroot\\js\\site.js*",
+              "RelativeToolTip": "wwwroot\\js\\site.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-09T03:31:27.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-09T03:30:28.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\PedidoCreateVM.cs",
+              "RelativeDocumentMoniker": "Models\\PedidoCreateVM.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\PedidoCreateVM.cs",
+              "RelativeToolTip": "Models\\PedidoCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:22:18.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\PedidoModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PedidoModels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\PedidoModels\\Index.cshtml",
+              "RelativeToolTip": "Views\\PedidoModels\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T03:20:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\PedidoModels\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\PedidoModels\\Create.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\PedidoModels\\Create.cshtml",
+              "RelativeToolTip": "Views\\PedidoModels\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T03:17:27.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoModel.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\ProductoModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoModel.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\ProductoModel.cs",
+              "RelativeToolTip": "Models\\ProductoModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:38:19.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ClienteModelsController.cs",
+              "RelativeDocumentMoniker": "Views\\ClienteModelsController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ClienteModelsController.cs",
+              "RelativeToolTip": "Views\\ClienteModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:08:22.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\PedidoModelsController.cs",
+              "RelativeDocumentMoniker": "Views\\PedidoModelsController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\PedidoModelsController.cs",
+              "RelativeToolTip": "Views\\PedidoModelsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:08:55.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T19:52:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArtesaniasDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Data\\ArtesaniasDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ArtesaniasDbContext.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Data\\ArtesaniasDbContext.cs",
+              "RelativeToolTip": "Data\\ArtesaniasDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:40:58.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoModels\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ProductoModels\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:56:58.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoModels\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ProductoModels\\Delete.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:57:52.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoModels\\Details.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Details.cshtml",
+              "RelativeToolTip": "Views\\ProductoModels\\Details.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:58:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoModels\\Create.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Create.cshtml",
+              "RelativeToolTip": "Views\\ProductoModels\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T19:46:57.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetalllePedidoModel.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\DetalllePedidoModel.cs",
+              "RelativeDocumentMoniker": "Models\\DetalllePedidoModel.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\DetalllePedidoModel.cs",
+              "RelativeToolTip": "Models\\DetalllePedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:39:21.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductoModels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModels\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductoModels\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:58:18.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidoModel.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\PedidoModel.cs",
+              "RelativeDocumentMoniker": "Models\\PedidoModel.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\PedidoModel.cs",
+              "RelativeToolTip": "Models\\PedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:28:12.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250909030446_DropSkuFromProductos.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Migrations\\20250909030446_DropSkuFromProductos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250909030446_DropSkuFromProductos.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Migrations\\20250909030446_DropSkuFromProductos.cs",
+              "RelativeToolTip": "Migrations\\20250909030446_DropSkuFromProductos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:04:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250908200138_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Migrations\\20250908200138_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250908200138_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Migrations\\20250908200138_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250908200138_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:01:38.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetallePedidoModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\DetallePedidoModelsController.cs",
+              "RelativeDocumentMoniker": "Views\\DetallePedidoModelsController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\DetallePedidoModelsController.cs",
+              "RelativeToolTip": "Views\\DetallePedidoModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T20:09:16.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductoModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModelsController.cs",
+              "RelativeDocumentMoniker": "Views\\ProductoModelsController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Views\\ProductoModelsController.cs",
+              "RelativeToolTip": "Views\\ProductoModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:46:36.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T19:44:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T19:41:46.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PR3MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\PR3MVC.csproj",
+              "RelativeDocumentMoniker": "PR3MVC.csproj",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\PR3MVC.csproj",
+              "RelativeToolTip": "PR3MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T19:40:40.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeModels.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\HomeModels.cs",
+              "RelativeDocumentMoniker": "Models\\HomeModels.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\HomeModels.cs",
+              "RelativeToolTip": "Models\\HomeModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:28:02.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteModel.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\ClienteModel.cs",
+              "RelativeDocumentMoniker": "Models\\ClienteModel.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Models\\ClienteModel.cs",
+              "RelativeToolTip": "Models\\ClienteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:26:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NITRO\\Documents\\Web III\\PR3MVC\\practica3MVC\\PR3MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T15:25:29.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

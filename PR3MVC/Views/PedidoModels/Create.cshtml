@@ -1,0 +1,68 @@
+﻿@model Practica3Modelo.Models.PedidoCreateVM
+@using Practica3Modelo.Models
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<h4>PedidoModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- Encabezado del pedido -->
+            <div class="mb-3">
+                <label class="form-label">Cliente</label>
+                <select asp-for="Pedido.ClienteId" class="form-select" asp-items="ViewBag.ClienteId"></select>
+                <span asp-validation-for="Pedido.ClienteId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Pedido.Fecha" class="form-label"></label>
+                <input asp-for="Pedido.Fecha" class="form-control" />
+                <span asp-validation-for="Pedido.Fecha" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Pedido.Estado" class="form-label"></label>
+                @Html.DropDownListFor(m => m.Pedido.Estado,
+                Html.GetEnumSelectList<EstadoPedido>(),
+                                "Seleccione estado",
+                                new { @class = "form-select" })
+                <span asp-validation-for="Pedido.Estado" class="text-danger"></span>
+            </div>
+
+            <!-- Primera línea de detalle -->
+            <fieldset class="border p-3 rounded mb-3">
+                <legend class="float-none w-auto px-2 fs-6">Línea de pedido</legend>
+
+                <div class="mb-3">
+                    <label class="form-label">Producto</label>
+                    <select asp-for="ProductoId" class="form-select" asp-items="ViewBag.ProductoId"></select>
+                    <span asp-validation-for="ProductoId" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Cantidad" class="form-label"></label>
+                    <input asp-for="Cantidad" class="form-control" />
+                    <span asp-validation-for="Cantidad" class="text-danger"></span>
+                </div>
+            </fieldset>
+
+            <!-- Total se calcula en el servidor -->
+            <input type="hidden" asp-for="Pedido.Total" />
+
+            <button type="submit" class="btn btn-primary">Create</button>
+            <a asp-action="Index" class="btn btn-link">Back to List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
